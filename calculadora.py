@@ -3,3 +3,6 @@ def somar(a, b):
 
 def subtracao(a, b):
     return a - b
+
+def multiplicar(a, b):
+    return a * b
