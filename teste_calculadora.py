@@ -1,3 +1,6 @@
-import calculadora
+import calculadora as c
 
-print(calculadora.somar(9, 4))
+print(c.somar(8, 4))
+print(c.subtracao(8, 4))
+print(c.multiplicar(8, 4))
+print(c.dividir(8, 4))
